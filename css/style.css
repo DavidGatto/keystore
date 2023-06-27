@@ -1,0 +1,18 @@
+.logo {
+    width: 60px;
+    height: 60px;
+}
+
+.barra-nav {
+    background: linear-gradient(rgba(191, 200, 247, 0.75), rgba(203, 208, 231, 0.75)), url(../img/abstract-background-with-technology-circuit-board-texture-electronic-motherboard-illustration-communication-and-engineering-concept-illustration-vector.jpg);
+    height: auto;
+}
+.img-index{
+    width:450px;
+    height: 450px;
+text-align: center;
+}
+.productos{
+gap: 80px;
+}
+
